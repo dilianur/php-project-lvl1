@@ -1,0 +1,5 @@
+
+лицензия еще одна для composer.json -- proprietary
+
+команда chmod +x bin/brain-games 
+позволяет запускать исполняемый файл напрямую из консоли без php
